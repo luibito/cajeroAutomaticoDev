@@ -1,0 +1,27 @@
+
+.fs-7{
+    font-size: 11px;
+}
+
+.bg-image{
+    background-image: url(./images/245760-Champoton.avif);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.btn-entrar{
+    background-color: rgb(159, 89, 4)!important;
+    border-color: blueviolet!important;
+    color: white!important;
+}
+
+.rounded-start-lg {
+    border-bottom-left-radius: 1.375rem !important;
+    border-top-left-radius: 1.375rem !important;
+}
+.rounded-end-lg {
+    border-bottom-right-radius: 1.375rem !important;
+    border-top-right-radius: 1.375rem !important;
+}
+
